@@ -44,3 +44,6 @@ https://leetcode.com/problems/analyze-user-website-visit-pattern/
 
 # Solution Thought Process
 
+1. We need to go through the 3 different list and combine them into list of three values in a all_list
+2. Next iterate through all_list and for every three websites record user and add to dictionary 
+3. 
